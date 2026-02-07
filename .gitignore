@@ -1,0 +1,14 @@
+# Secrets (NEVER UPLOAD THESE)
+.env
+.DS_Store
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Project specific temp files (You don't need to upload these)
+status.json
+incident_log.json
+current_frame.jpg
+*.mp4
+*.avi
